@@ -52,9 +52,9 @@
 
 #task
 
-paint1 = input
-paint1 = float
+#paint1 = input
+#paint1 = float
 
-paint = paint1 * 4
+#paint = paint1 * 4
 
-print(f{paint})
+#print(f{paint})
